@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://dev.belin.io/yii2-json-messages/</loc>
+     <lastmod>2019-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dev.belin.io/yii2-json-messages/installation/</loc>
+     <lastmod>2019-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dev.belin.io/yii2-json-messages/usage/</loc>
+     <lastmod>2019-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dev.belin.io/yii2-json-messages/about/changelog/</loc>
+     <lastmod>2019-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dev.belin.io/yii2-json-messages/about/license/</loc>
+     <lastmod>2019-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dev.belin.io/yii2-json-messages/about/see_also/</loc>
+     <lastmod>2019-01-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
